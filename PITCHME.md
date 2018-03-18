@@ -14,7 +14,7 @@
 ---
 ### What Lymba Does 
 
----?image=assets/logo--lymba-w400.png
+![Lymba](assets/logo--lymba-w400.png)
 
 * Natural language processing
 * Deep semantic analysis of text
