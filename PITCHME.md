@@ -43,10 +43,10 @@
 ---
 ### Graph Query Languages
 
-* SPARQL (RDF query language - W3C standard)
-* Gremlin (graph traversal language - Apache Software Foundation)
-* Cypher (graph query language - open specification recently released by Neo4j)
-* GraphQL (implemented by Neo4j & Dgraph)
+* SPARQL (W3C)
+* Gremlin (Apache Software Foundation)
+* Cypher (Neo4j)
+* GraphQL (Facebook)
 ---
 ### Neo4j
 ---
