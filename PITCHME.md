@@ -30,3 +30,36 @@
 ### What Lymba Does: RDF Triple Output
 ---
 ### What Lymba Does: RDF Triple Stores and Graph Databases
+---
+### What Is A Graph Database?
+---
+### Underlying Storage Mechanisms
+
+* Native graph
+* Document database
+* Relational database
+---
+### Labeled Property Graph vs. RDF
+---
+### Graph Query Languages
+
+* SPARQL (RDF query language - W3C standard)
+* Gremlin (graph traversal language - Apache Software Foundation)
+* Cypher (graph query language - open specification recently released by Neo4j)
+* GraphQL (implemented by Neo4j & Dgraph)
+---
+### Neo4j
+---
+### Neo4j and GraphQL
+---
+### Neo4j and the "GRANDstack"
+---
+### Dgraph
+---
+### Dgraph and GraphQL
+---
+### GraphQL+-
+---
+### Querying Dgraph
+---
+### Other Databases - Prisma Database Connector
