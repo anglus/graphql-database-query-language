@@ -1,2 +1,3 @@
 highlight : arta 
 background-size : contain
+theme-override : assets/css/PITCHME.css
