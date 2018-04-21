@@ -53,6 +53,11 @@
 ### Neo4j and GraphQL
 ---
 ### Neo4j and the "GRANDstack"
+
+* GraphQL
+* React
+* Apollo
+* Neo4j Database
 ---
 ### Dgraph
 ---
