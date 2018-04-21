@@ -1,6 +1,8 @@
 ---
 ## GraphQL as a Database Query Language
 
+![GraphQL as a Database Query Language](assets/img/graphql-as-database-query-language-alpha.png)
+
 #### Matthew Morris
 #### April 25, 2018
 ---
@@ -14,7 +16,7 @@
 ---
 ### What Lymba Does 
 
-![Lymba](assets/logo--lymba-w400.png)
+![Lymba](assets/img/logo--lymba-w400.png)
 
 * Natural language processing
 * Deep semantic analysis of text
