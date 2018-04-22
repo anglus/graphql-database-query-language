@@ -37,8 +37,6 @@
 ---
 ### Underlying Storage Mechanisms
 
-![Neo4j](assets/img/neo4j-logo-2015.png)
-
 * Native graph
 * Document database
 * Relational database
@@ -54,7 +52,7 @@
 ---
 ### Neo4j
 
-
+![Neo4j](assets/img/neo4j-logo-2015.png)
 
 * The original "graph database"
 * Native property graph database written in Java
